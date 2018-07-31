@@ -1,5 +1,5 @@
 {
-    "name": "types-react-redux",
+    "name": "@types/react-redux",
     "version": "0.0.2",
     "private": true,
     "dependencies": {
